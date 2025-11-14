@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/:path*",
-      "destination": "https://ihtiyackredisi.com/:path*",
+      "destination": "https://ihtiyackredisi.com",
       "permanent": true
     }
   ]
