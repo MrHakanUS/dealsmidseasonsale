@@ -1,3 +1,0 @@
-app.get('/http://dealsmidseasonsale.vercel.app/', (req, res) => {
-    res.status(301).redirect('https://ihtiyackredisi.com');
-});
