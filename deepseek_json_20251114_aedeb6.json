@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://ihtiyackredisi.com/:path*",
+      "permanent": true
+    }
+  ]
+}
