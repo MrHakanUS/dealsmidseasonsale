@@ -1,1 +1,1 @@
-<?php $url = 'https://www.ihtiyackredisi.com'; header("location: $url",true,301); ?>
+<?php $url = 'https://ihtiyackredisi.com'; header("location: $url",true,301); ?>
